@@ -1,25 +1,4 @@
 E325: ATTENTION
-Found a swap file by the name ".git\.COMMIT_EDITMSG.swp"
-             dated: Wed Jul 10 11:37:42 2013
-         file name: d:/rab/.git/COMMIT_EDITMSG
-          modified: YES
-         user name: »‰Ï?Ì?aaa‡aÓa   host name: VITCORP
-        process ID: 9184
-While opening file ".git\COMMIT_EDITMSG"
-             dated: Thu Jul 11 10:02:49 2013
-      NEWER than swap file!
-
-(1) Another program may be editing the same file.
-    If this is the case, be careful not to end up with two
-    different instances of the same file when making changes.
-    Quit, or continue with caution.
-
-(2) An edit session for this file crashed.
-    If this is the case, use ":recover" or "vim -r .git\COMMIT_EDITMSG"
-    to recover the changes (see ":help recovery").
-    If you did this already, delete the swap file ".git\.COMMIT_EDITMSG.swp"
-    to avoid this message.
-
 Swap file ".git\.COMMIT_EDITMSG.swp" already exists!
 [O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:
 -- More --
