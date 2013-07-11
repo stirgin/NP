@@ -1,3 +1,0 @@
-NP
-==
-$ git status
