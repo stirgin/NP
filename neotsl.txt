@@ -1,4 +1,4 @@
-E325: ATTENTION
+sdfE325: ATTENTION
 Swap file ".git\.COMMIT_EDITMSG.swp" already exists!
 [O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:
 -- More --
